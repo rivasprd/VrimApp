@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2e23fd60-00a5-4687-b998-065523f2a84f/AppServices/subscriptions/2e23fd60-00a5-4687-b998-065523f2a84f/resourceGroups/DefaultResourceGroup-CQ/providers/Microsoft.Web/sites/Vrim-Node",
+    "appService.deploySubpath": "."
+}
