@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Vrim-Node'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A223DF6D3BAE4422ABF9CEA111F8A897 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96DCE97FAC994794A2E5F9FA38E362EF }}
           package: .
